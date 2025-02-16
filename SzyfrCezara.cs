@@ -16,7 +16,9 @@ namespace AplikacjiaSzyfrowanie
             char[] zaszyfrowaneZnaki = new char[input.Length];
             
             int step;
-            if(!int.TryParse(_step, out step))
+            bool konwersjia = int.TryParse(_step, out step);
+
+            if (!konwersjia)
             {
                 step = 3; //wewnętrzna wartość dla niepowodzenia konwersji
             }

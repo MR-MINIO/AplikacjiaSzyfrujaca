@@ -111,9 +111,9 @@
             cb3.AutoSize = true;
             cb3.Location = new Point(396, 90);
             cb3.Name = "cb3";
-            cb3.Size = new Size(94, 19);
+            cb3.Size = new Size(100, 19);
             cb3.TabIndex = 6;
-            cb3.Text = "Szyfr Vignerè";
+            cb3.Text = "Szyfr Vigenère";
             cb3.UseVisualStyleBackColor = true;
             cb3.CheckedChanged += checkBox_CheckedChanged;
             // 

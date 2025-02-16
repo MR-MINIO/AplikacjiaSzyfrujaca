@@ -53,7 +53,8 @@ namespace AplikacjiaSzyfrowanie
         {
             textBox2.ForeColor = Color.Black;
             String daneDoZakodowania = checkCharacters(textBox1.Text);
-            String klucz = checkCharacters(textBox3.Text);
+            //String klucz = checkCharacters(textBox3.Text);
+            String klucz = textBox3.Text;
 
             if (daneDoZakodowania == "")
             {
