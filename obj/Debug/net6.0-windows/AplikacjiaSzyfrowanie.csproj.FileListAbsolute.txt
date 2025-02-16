@@ -1,0 +1,16 @@
+C:\!!!_MINIO\!!_Prv\SZKOLA\WSEI\Zajecia\BezpieczenstwoSystemowKomputerowch\AplikacjiaSzyfrowanie\bin\Debug\net6.0-windows\AplikacjiaSzyfrowanie.exe
+C:\!!!_MINIO\!!_Prv\SZKOLA\WSEI\Zajecia\BezpieczenstwoSystemowKomputerowch\AplikacjiaSzyfrowanie\bin\Debug\net6.0-windows\AplikacjiaSzyfrowanie.deps.json
+C:\!!!_MINIO\!!_Prv\SZKOLA\WSEI\Zajecia\BezpieczenstwoSystemowKomputerowch\AplikacjiaSzyfrowanie\bin\Debug\net6.0-windows\AplikacjiaSzyfrowanie.runtimeconfig.json
+C:\!!!_MINIO\!!_Prv\SZKOLA\WSEI\Zajecia\BezpieczenstwoSystemowKomputerowch\AplikacjiaSzyfrowanie\bin\Debug\net6.0-windows\AplikacjiaSzyfrowanie.dll
+C:\!!!_MINIO\!!_Prv\SZKOLA\WSEI\Zajecia\BezpieczenstwoSystemowKomputerowch\AplikacjiaSzyfrowanie\bin\Debug\net6.0-windows\AplikacjiaSzyfrowanie.pdb
+C:\!!!_MINIO\!!_Prv\SZKOLA\WSEI\Zajecia\BezpieczenstwoSystemowKomputerowch\AplikacjiaSzyfrowanie\obj\Debug\net6.0-windows\AplikacjiaSzyfrowanie.Form1.resources
+C:\!!!_MINIO\!!_Prv\SZKOLA\WSEI\Zajecia\BezpieczenstwoSystemowKomputerowch\AplikacjiaSzyfrowanie\obj\Debug\net6.0-windows\AplikacjiaSzyfrowanie.csproj.GenerateResource.cache
+C:\!!!_MINIO\!!_Prv\SZKOLA\WSEI\Zajecia\BezpieczenstwoSystemowKomputerowch\AplikacjiaSzyfrowanie\obj\Debug\net6.0-windows\AplikacjiaSzyfrowanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\!!!_MINIO\!!_Prv\SZKOLA\WSEI\Zajecia\BezpieczenstwoSystemowKomputerowch\AplikacjiaSzyfrowanie\obj\Debug\net6.0-windows\AplikacjiaSzyfrowanie.AssemblyInfoInputs.cache
+C:\!!!_MINIO\!!_Prv\SZKOLA\WSEI\Zajecia\BezpieczenstwoSystemowKomputerowch\AplikacjiaSzyfrowanie\obj\Debug\net6.0-windows\AplikacjiaSzyfrowanie.AssemblyInfo.cs
+C:\!!!_MINIO\!!_Prv\SZKOLA\WSEI\Zajecia\BezpieczenstwoSystemowKomputerowch\AplikacjiaSzyfrowanie\obj\Debug\net6.0-windows\AplikacjiaSzyfrowanie.csproj.CoreCompileInputs.cache
+C:\!!!_MINIO\!!_Prv\SZKOLA\WSEI\Zajecia\BezpieczenstwoSystemowKomputerowch\AplikacjiaSzyfrowanie\obj\Debug\net6.0-windows\AplikacjiaSzyfrowanie.dll
+C:\!!!_MINIO\!!_Prv\SZKOLA\WSEI\Zajecia\BezpieczenstwoSystemowKomputerowch\AplikacjiaSzyfrowanie\obj\Debug\net6.0-windows\refint\AplikacjiaSzyfrowanie.dll
+C:\!!!_MINIO\!!_Prv\SZKOLA\WSEI\Zajecia\BezpieczenstwoSystemowKomputerowch\AplikacjiaSzyfrowanie\obj\Debug\net6.0-windows\AplikacjiaSzyfrowanie.pdb
+C:\!!!_MINIO\!!_Prv\SZKOLA\WSEI\Zajecia\BezpieczenstwoSystemowKomputerowch\AplikacjiaSzyfrowanie\obj\Debug\net6.0-windows\AplikacjiaSzyfrowanie.genruntimeconfig.cache
+C:\!!!_MINIO\!!_Prv\SZKOLA\WSEI\Zajecia\BezpieczenstwoSystemowKomputerowch\AplikacjiaSzyfrowanie\obj\Debug\net6.0-windows\ref\AplikacjiaSzyfrowanie.dll
